@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tawfik Mohamed Khlil</h1>
+<h1 align="center">Hi 👋, I'm Tawfik Mohamed Khalil</h1>
 <h3 align="center">Student At FCAI Cairo university and Problem solver</h3>
 
 <h3 align="left">Connect with me:</h3>
